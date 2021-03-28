@@ -1,3 +1,5 @@
+**Instructions to run the tests**
+
 I assume you are using a Unix system and Python 3 and Chrome Driver is already installed.
 
 Instructions to install ChromeDriver 89.0.4389.23 (MacOS):
